@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Guillermo Gallego González <img src="https://komarev.com/ghpvc/?username=guillermojuliangallegogonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="guillermojuliangallegogonzalez" /> </h1>
+<h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
 - 🔭 Actualmente ando desarrollando **ModuDev**
