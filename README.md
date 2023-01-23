@@ -24,9 +24,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillermojuliangallegogonzalez" alt="guillermojuliangallegogonzalez" /></a> </p>
 <section>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermojuliangallegogonzalez&show_icons=true&locale=en&layout=compact" alt="guillermojuliangallegogonzalez" /></p>
+    <div>
+        <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermojuliangallegogonzalez&show_icons=true&locale=en&layout=compact" alt="guillermojuliangallegogonzalez" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=guillermojuliangallegogonzalez&show_icons=true&locale=en" alt="guillermojuliangallegogonzalez" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermojuliangallegogonzalez&show_icons=true&locale=en" alt="guillermojuliangallegogonzalez" /></p>
+    </div>
+    
 </section>
 
 
