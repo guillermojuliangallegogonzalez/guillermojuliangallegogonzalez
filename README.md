@@ -2,11 +2,13 @@
 <h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
+<br/>
 
+### 🧐 Más Sobre mí:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="380px"/>
 
-### 🧐 Más Sobre mí:
+
 
 - 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
 - 🌱 &nbsp; Centrado en aprender **Rust, JavaFX y React.js**
