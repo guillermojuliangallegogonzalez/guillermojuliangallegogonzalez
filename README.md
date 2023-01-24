@@ -15,10 +15,11 @@
 - 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
 - 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
-<h3 align="left">Contacta conmigo:</h3>
+### Contacta conmigo 📩
 <p align="left">
-<a href="https://linkedin.com/in/guillermojulián-gallego-gonzález" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermojulián-gallego-gonzález" height="30" width="40" /></a>
-<a href="https://instagram.com/guillermogallego01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guillermogallego01" height="30" width="40" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:guillermojulian.gallegogonzalez@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/guillermo-julián-gallego-gonzález/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/guillermojuliangallegogonzalez)
 </p>
 
 
