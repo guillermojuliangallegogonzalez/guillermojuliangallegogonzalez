@@ -2,15 +2,16 @@
 <h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
-- 🔭 Actualmente ando desarrollando **ModuDev**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="360px"/>
 
-- 🌱 Actualmente aprendiendo **Rust, JavaFX y React.js**
+### 🧐 Más Sobre mí:
 
-- 👨‍💻 Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
-
-- 💬 Pregúntame sobre **C, C++ y C#**
-
-- 📫 Contáctame **guillermo.juliangallegogonzalez@gmail.com**
+- 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
+- 🌱 &nbsp; Actualmente aprendiendo **Rust, JavaFX y React.js**
+- 👨‍💻 &nbsp; Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
+- 💬 &nbsp; Pregúntame sobre **C, C++ y C#**
+- 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
+- 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
