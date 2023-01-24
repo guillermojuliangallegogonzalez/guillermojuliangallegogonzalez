@@ -6,12 +6,14 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="280px"/>
 
-###   🧐 Más Sobre mí:
+### 🧐 Más Sobre mí:
 
 - 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
 - 🌱 &nbsp; Centrado en aprender **Rust, JavaFX y React.js**
 - 👨‍💻 &nbsp; Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
-- 💬 &nbsp; Pregúntame sobre **C, C++ y C#**
+- 💬 &nbsp; Pregúntame lo que quieras sobre **C, C++ y C#**
+- 💪🏼 &nbsp; En mi tiempo libre me gusta hacer **deporte**
+- 🧠 &nbsp; Pensando en especializarme en **Java**
 - 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
 - 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
