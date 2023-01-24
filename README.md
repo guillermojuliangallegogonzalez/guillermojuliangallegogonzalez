@@ -4,12 +4,12 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="280px"/>
 
 ###   🧐 Más Sobre mí:
 
 - 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
-- 🌱 &nbsp; Actualmente aprendiendo **Rust, JavaFX y React.js**
+- 🌱 &nbsp; Centrado en aprender **Rust, JavaFX y React.js**
 - 👨‍💻 &nbsp; Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
 - 💬 &nbsp; Pregúntame sobre **C, C++ y C#**
 - 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
