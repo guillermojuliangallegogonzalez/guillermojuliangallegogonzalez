@@ -18,8 +18,6 @@
 <br/>
 <br/>
 
-<hr>
-
 <h2 align="center"> 📩 Contacta conmigo 📩 </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermojulian.gallegogonzalez@gmail.com)
