@@ -6,7 +6,7 @@
 
 ### 🧐 Más Sobre mí:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="380px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="360px"/>
 
 
 
