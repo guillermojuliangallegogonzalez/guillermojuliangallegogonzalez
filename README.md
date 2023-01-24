@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="330px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="320px"/>
 
 
 
