@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/30/8b/ed/308bed330f3c613b8f021297b05d368b.jpg)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
+[![MasterHead](https://www.nicepng.com/png/detail/44-445294_japanese-wave-png-japanese-wave-art-png.png)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
 <h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
