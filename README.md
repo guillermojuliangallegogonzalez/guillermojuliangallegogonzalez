@@ -6,16 +6,18 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="240px"/>
 
-### 🧐 Más Sobre mí:
+###   🧐 Más Sobre mí:
 
-- 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
-- 🌱 &nbsp; Actualmente aprendiendo **Rust, JavaFX y React.js**
-- 👨‍💻 &nbsp; Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
-- 💬 &nbsp; Pregúntame sobre **C, C++ y C#**
-- 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
-- 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
+&nbsp;&nbsp;- 🔭 &nbsp; Actualmente ando desarrollando **ModuDev**
+&nbsp;&nbsp;- 🌱 &nbsp; Actualmente aprendiendo **Rust, JavaFX y React.js**
+&nbsp;&nbsp;- 👨‍💻 &nbsp; Encontrarás todos mis proyectos en [https://guillermojuliangallegogonzalez.github.io/Portfolio/](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
+&nbsp;&nbsp;- 💬 &nbsp; Pregúntame sobre **C, C++ y C#**
+&nbsp;&nbsp;- 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
+&nbsp;&nbsp;- 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
-### Contacta conmigo 📩
+<hr>
+
+<h2 align="center"> 📩 Contacta conmigo 📩 </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermojulian.gallegogonzalez@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-julián-gallego-gonzález/)
