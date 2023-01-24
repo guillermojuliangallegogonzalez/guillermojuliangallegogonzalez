@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="300px"/>
 
 ### 🧐 Más Sobre mí:
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/guillermojulián-gallego-gonzález" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermojulián-gallego-gonzález" height="30" width="40" /></a>
 <a href="https://instagram.com/guillermogallego01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guillermogallego01" height="30" width="40" /></a>
-<a href="https://discord.gg/Guillermo-Gallego-González#3238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Guillermo Gallego González#3238" height="30" width="40" /></a>
 </p>
 
 <br/>
