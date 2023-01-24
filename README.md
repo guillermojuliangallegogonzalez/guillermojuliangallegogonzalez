@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="240px"/>
 
 ### 🧐 Más Sobre mí:
 
@@ -17,9 +17,9 @@
 
 ### Contacta conmigo 📩
 
-[![Gmail Badge](https://img.shields.io/badge/-guillermojulian.gallegogonzalez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermojulian.gallegogonzalez@gmail.com)](mailto:guillermojulian.gallegogonzalez@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermojulian.gallegogonzalez@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-julián-gallego-gonzález/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/guillermojuliangallegogonzalez)](https://github.com/guillermojuliangallegogonzalez)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillermojuliangallegogonzalez)
 [![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/guillermojulian)
 
 
