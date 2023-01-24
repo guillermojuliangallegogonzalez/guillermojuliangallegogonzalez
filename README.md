@@ -21,7 +21,6 @@
 <h2 align="center"> 📩 Contacta conmigo 📩 </h2>
 
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermojulian.gallegogonzalez@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-julián-gallego-gonzález/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillermojuliangallegogonzalez)
