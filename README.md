@@ -18,7 +18,6 @@
 - 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
 <br/>
-<br/>
 
 <h2 align="center"> 📩 Contacta conmigo 📩 </h2>
 
