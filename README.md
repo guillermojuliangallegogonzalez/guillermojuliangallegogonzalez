@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="360px"/>
 
 ### 🧐 Más Sobre mí:
 
