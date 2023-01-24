@@ -2,8 +2,6 @@
 <h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
-<hr>
-
 <h2 align="center"> 🧐 Más Sobre mí 🧐  </h2>
 
 <br/>
