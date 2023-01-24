@@ -16,11 +16,11 @@
 - 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
 ### Contacta conmigo 📩
-<p align="left">
+
 [![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:guillermojulian.gallegogonzalez@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/guillermo-julián-gallego-gonzález/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/guillermojuliangallegogonzalez)
-</p>
+
 
 
 <br/>
