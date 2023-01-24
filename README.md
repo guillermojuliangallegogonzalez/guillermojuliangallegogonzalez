@@ -27,7 +27,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillermojuliangallegogonzalez)
 [![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/guillermojulian)
 [![WhatsApp](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://api.whatsapp.com/send?phone=653589211&text=Hola,%20Quiero%20m%C3%A1s%20informaci%C3%B3n!)
-[![WebSite](hhttps://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
 
 <h2 align="center">💻 Lenguajes y herramientas 💻</h2>
 <br/>
