@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🧐 Más Sobre mí:
+<h2 align="center"> 🧐 Más Sobre mí 🧐  </h2>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/guillermojuliangallegogonzalez/guillermojuliangallegogonzalez/main/techstack.gif" width="360px"/>
 
