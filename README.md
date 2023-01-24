@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/50/48/31/360_F_450483119_OlkUI3XNadGmdC1KsVBH3LYq03TRWQ5Q.jpg)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/52/23/57/360_F_452235746_QMl9RIjLIKQSnoPGVvw36iCXWaQbB2Qe.jpg)](https://guillermojuliangallegogonzalez.github.io/Portfolio/)
 <h1 align="center">Hola 👋, Soy Guillermo Gallego González</h1>
 <h3 align="center">Desarrollador FullStack, con amplios conocimientos en diseño web, aplicaciones móviles y aplicaciones de escritorio.</h3>
 
