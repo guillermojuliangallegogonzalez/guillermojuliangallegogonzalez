@@ -27,9 +27,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillermojuliangallegogonzalez)
 [![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/guillermojulian)
 
-
-<br/>
-
 <hr>
 
 <h2 align="center">💻 Lenguajes y herramientas 💻</h2>
