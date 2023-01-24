@@ -15,6 +15,9 @@
 - 📝 &nbsp; Dale un vistazo a mi [currículum](https://drive.google.com/file/d/1yoKu9bgZG6NgBwUyKv9h6ov3GfOqcGMf/view?usp=sharing)
 - 📫 &nbsp; Contáctame **guillermo.juliangallegogonzalez@gmail.com**
 
+<br/>
+<br/>
+
 <hr>
 
 <h2 align="center"> 📩 Contacta conmigo 📩 </h2>
